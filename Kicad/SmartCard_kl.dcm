@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/12/2012 11:37:20
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IC_SC_CONNECTOR
+D Connector For IC Smartcard
+$ENDCMP
 #
 $CMP SC_QFN32
 D SmartCard
