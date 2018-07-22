@@ -8,4 +8,8 @@ $CMP DIPx6
 D DIP switch x4
 $ENDCMP
 #
+$CMP IM41_3VDC
+D AXICOM IM41 3VDC
+$ENDCMP
+#
 #End Doc Library
