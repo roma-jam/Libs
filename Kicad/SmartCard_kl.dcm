@@ -4,6 +4,14 @@ $CMP IC_SC_CONNECTOR
 D Connector For IC Smartcard
 $ENDCMP
 #
+$CMP SC_P6022x
+D SmartCard
+$ENDCMP
+#
+$CMP SC_P602x
+D SmartCard
+$ENDCMP
+#
 $CMP SC_QFN32
 D SmartCard
 $ENDCMP
